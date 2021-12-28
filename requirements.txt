@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 fastai>=2
 pillow<7
 packaging
@@ -8,3 +9,4 @@ ipyvolume
 scipy
 voila
 graphviz
+requests
