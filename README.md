@@ -1,2 +1,2 @@
 # RabbitClassify
-[mybinder](https://hub-binder.mybinder.ovh/user/goddrew-rabbitclassify-0fuege97/voila/render/RabbitClassify.ipynb?token=3D-SnYx1SyaHzUP1Xzm0sg)
+[mybinder](https://mybinder.org/v2/gh/Goddrew/RabbitClassify/HEAD?urlpath=voila%2Frender%2FRabbitClassify.ipynb)
