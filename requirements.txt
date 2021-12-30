@@ -5,5 +5,10 @@ fastai
 voila
 ipywidgets
 fastbook
+<<<<<<< HEAD
 Pillow 
 exif
+=======
+Pillow
+exif
+>>>>>>> 56df87535c81b33fadd574243711ffc05743fa34
